@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <img align="right" alt="code" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaloksy&label=Profile%20views&color=0e75b6&style=flat" alt="iamaloksy" /> </p>
+<img src="https://camo.githubusercontent.com/6c68a6048de1844843a8e72e4729f69bc6cc3d2cae577fa28efa2e9ce65de2a4/68747470733a2f2f6e6f63616368652e616476616974682e776f726b6572732e6465763f75726c3d68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470733a2f2f6465762e646973636f726470726f66696c65732e6d652f6170692f62616467652f7374617475732f3636383432333939383737373938323939373f73696d706c653d74727565" data-canonical-src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/668423998777982997?simple=true" style="max-width: 100%;">
 
 <p align="left"> <a href="https://twitter.com/iamaloksi" target="blank"><img src="https://img.shields.io/twitter/follow/iamaloksi?logo=twitter&style=for-the-badge" alt="iamaloksi" /></a> </p>
 
