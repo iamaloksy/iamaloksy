@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/iamaloksi" target="blank"><img src="https://img.shields.io/twitter/follow/iamaloksi?logo=twitter&style=for-the-badge" alt="iamaloksi" /></a> </p>
 
-- 🌱 I’m currently learning *Dart Language For Apk Development (Android / IOS)*
+- 🌱 I’m currently learning *Dart Language For Apk Development (Android / IOS)* And *Devops For Cloud Services *
 
-- 👨‍💻 All of my projects are available at [iamalok.site](iamalok.site)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/iamaloksy)
 
 - 📫 How to reach me *kr.alok.sy@gmail.com*
 
