@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Alok</h1>
 <h3 align="center">A Passionate FullStack & UI-UX Developer From India...</h3>
 
+<div align="center" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi%2C+I'm+Alok" alt="Typing SVG" />
+</div>
+
 <img align="right" alt="code" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaloksy&label=Profile%20views&color=0e75b6&style=flat" alt="iamaloksy" /> </p>
