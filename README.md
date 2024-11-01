@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center" width="100%">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi%2C+I'm+Alok" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&color=00FFFF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Alok" />
+
 <h3 align="center">A Passionate FullStack & UI-UX Developer From India...</h3>
 
 
