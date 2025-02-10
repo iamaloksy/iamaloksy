@@ -34,10 +34,8 @@ Here are some ideas to get you started:
   <br>
 
 ## 🎖️ Badges:
-![Postman API Fundamentals Student Expert Badge](https://api.badgr.io/public/assertions/yXWwhPtAQwKq48XDsKpLdA/image)
-
 <a href="https://api.badgr.io/public/assertions/yXWwhPtAQwKq48XDsKpLdA?identity__email=kr.alok.sy%40gmail.com" target="_blank">
-  <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/yXWwhPtAQwKq48XDsKpLdA/image" alt="Postman API Fundamentals Student Expert Badge">
+  <img src="https://github.com/iamaloksy/badges/raw/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202025-02-10.png" alt="Postman API Badge" width="150px">
 </a>
 
 **Awarded:** Feb 10, 2025  
