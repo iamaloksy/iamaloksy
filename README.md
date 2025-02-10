@@ -33,6 +33,15 @@ Here are some ideas to get you started:
   <br>
   <br>
 
+## 🎖️ Badges:
+![Postman API Fundamentals Student Expert Badge](https://api.badgr.io/public/assertions/yXWwhPtAQwKq48XDsKpLdA/image)
+
+<a href="https://api.badgr.io/public/assertions/yXWwhPtAQwKq48XDsKpLdA?identity__email=kr.alok.sy%40gmail.com" target="_blank">
+  <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/yXWwhPtAQwKq48XDsKpLdA/image" alt="Postman API Fundamentals Student Expert Badge">
+</a>
+
+**Awarded:** Feb 10, 2025  
+[**VERIFY**](https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FyXWwhPtAQwKq48XDsKpLdA%3Fidentity__email%3Dkr.alok.sy%2540gmail.com&identity__email=kr.alok.sy%40gmail.com)
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kr.alok.sy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamaloksy)
