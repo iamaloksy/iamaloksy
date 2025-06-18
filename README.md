@@ -12,9 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=470&height=60&lines=Hi there 👋%2C+I'm+Alok&color=00FFFF" alt="Typing SVG" />
-</div>
+<h1 align="center">
+  Hi there 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="margin-bottom: -5px;" />
+   I'm Alok
+</h1>
+
+
 
 <h3 align="center">A Passionate FullStack & UI-UX Developer From India...</h3>
 
